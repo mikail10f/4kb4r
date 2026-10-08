@@ -1,20 +1,21 @@
 body{background-color:aqua;
      border:5px solid purple;
-     border-radius:10px;
-    }
-
-  h1{text-align:center;
+     border-radius:10px;}
+       
+  h1{text-align:left;
      font-weight:bold;
      color:green;
     }
 
-  p{font-size:16px;
+  p{font-size:13px;
+    text-align:center
    }
+img{text-align: center}
 
-marquee{color:red;}
+
 ul{list-style-type:none;}
 li{display:inline;
-   padding:15px
+   padding:15px;}
 
 
 
