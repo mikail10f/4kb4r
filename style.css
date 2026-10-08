@@ -1,17 +1,18 @@
 body{background-color:aqua;
      border:5px solid purple;
-     border-radius:10px;}
-       
-  h1{text-align:left;
+     border-radius:10px;
+    }
+
+h1{text-align:left;
      font-weight:bold;
      color:green;
     }
 h2{text-align:center}
 
-p1{font-size:13px;
+p{font-size:13px;
     text-align:center
    }
-p2{font-size:13px;
+p{font-size:13px;
   text-align:center}
 
 img{display:block;
