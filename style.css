@@ -6,16 +6,13 @@ body{background-color:aqua;
      font-weight:bold;
      color:green;
     }
+h2{text-align:center}
 
-  p{font-size:13px;
+p1{font-size:13px;
     text-align:center
    }
-img{text-align: center}
+p2{font-size:13px;
+  text-align:center}
 
-
-ul{list-style-type:none;}
-li{display:inline;
-   padding:15px;}
-
-
-
+img{display:block;
+   margin:0px auto}
