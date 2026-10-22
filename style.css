@@ -1,6 +1,6 @@
 body{background-color:grey;
      border:15px solid black;
-     border-radius:13px;
+     border-radius:5px;
     }
 
 h1{text-align:center;
@@ -20,9 +20,9 @@ img{display:block;
 
 ul{list-style-type:none;
   border: 10px solid black;
-  border-radius: 8px}
+  border-radius: 5px}
 li{display:inline;
-   padding:15px;}
+   padding:5px;}
 
 marquee{color:red}
 
